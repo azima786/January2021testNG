@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30203" started-at="2021-05-13T06:11:34 CDT" finished-at="2021-05-13T06:12:04 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30203" started-at="2021-05-13T06:11:34 CDT" finished-at="2021-05-13T06:12:04 CDT">
+      <class name="TestNG.TestNG">
+        <test-method status="PASS" signature="readconfig()[pri:0, instance:TestNG.TestNG@37d31475]" name="readconfig" is-config="true" duration-ms="16" started-at="2021-05-13T06:11:34 CDT" finished-at="2021-05-13T06:11:34 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readconfig -->
+        <test-method status="PASS" signature="start()[pri:0, instance:TestNG.TestNG@37d31475]" name="start" is-config="true" duration-ms="12013" started-at="2021-05-13T06:11:34 CDT" finished-at="2021-05-13T06:11:46 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="input()[pri:1, instance:TestNG.TestNG@37d31475]" name="input" duration-ms="2079" started-at="2021-05-13T06:11:46 CDT" finished-at="2021-05-13T06:11:48 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- input -->
+        <test-method status="PASS" signature="teardownn()[pri:0, instance:TestNG.TestNG@37d31475]" name="teardownn" is-config="true" duration-ms="985" started-at="2021-05-13T06:11:48 CDT" finished-at="2021-05-13T06:11:49 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownn -->
+        <test-method status="PASS" signature="start()[pri:0, instance:TestNG.TestNG@37d31475]" name="start" is-config="true" duration-ms="5914" started-at="2021-05-13T06:11:49 CDT" finished-at="2021-05-13T06:11:55 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="addCustomerTest()[pri:2, instance:TestNG.TestNG@37d31475]" name="addCustomerTest" duration-ms="6826" started-at="2021-05-13T06:11:55 CDT" finished-at="2021-05-13T06:12:01 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomerTest -->
+        <test-method status="PASS" signature="teardownn()[pri:0, instance:TestNG.TestNG@37d31475]" name="teardownn" is-config="true" duration-ms="2295" started-at="2021-05-13T06:12:01 CDT" finished-at="2021-05-13T06:12:04 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownn -->
+        <test-method status="PASS" signature="AfterClass()[pri:0, instance:TestNG.TestNG@37d31475]" name="AfterClass" is-config="true" duration-ms="0" started-at="2021-05-13T06:12:04 CDT" finished-at="2021-05-13T06:12:04 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+        <test-method status="PASS" signature="AfterTest()[pri:0, instance:TestNG.TestNG@37d31475]" name="AfterTest" is-config="true" duration-ms="1" started-at="2021-05-13T06:12:04 CDT" finished-at="2021-05-13T06:12:04 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+        <test-method status="PASS" signature="AfterSuite()[pri:0, instance:TestNG.TestNG@37d31475]" name="AfterSuite" is-config="true" duration-ms="1" started-at="2021-05-13T06:12:04 CDT" finished-at="2021-05-13T06:12:04 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuite -->
+      </class> <!-- TestNG.TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
